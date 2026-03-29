@@ -1,0 +1,6 @@
+.venv
+create
+.env
+__pycache__
+all-MiniLM-L12-v2
+db
