@@ -130,7 +130,8 @@ def main():
                         # Get response from chain
                         response = st.session_state.chain.invoke({
                             "input": user_question,
-                            "retrieved_documents": retrieved_docs
+                            "retrieved_documents": retrieved_docs,
+                            "chat_history": []
                         })
 
                         answer = response["output"]
