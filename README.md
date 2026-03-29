@@ -11,4 +11,4 @@ Unlike standard RAG pipelines, this is a **fully autonomous agent**. It reads th
 * **Contextual Memory:** Maintains chat history for seamless, multi-turn conversations.
 
 ## 🚀 Try it out
-[Link to live Streamlit app]
+https://autonomous-rag-agent.streamlit.app
